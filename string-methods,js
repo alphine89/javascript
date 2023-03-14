@@ -1,0 +1,5 @@
+let name = "albert"
+let school = new String("jkuat")
+
+console.log(name.charA(0));
+console.log(school.charA(0));
